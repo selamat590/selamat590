@@ -23,8 +23,8 @@
 <img src="https://img.shields.io/badge/manjaro-35BF5C?style=for-the-badge&logo=manjaro&logoColor=white" />
 
 ## HOBBY
-🏋️ Gym | 🏃 Running | ⛰️ Hiking | 🏕️ Camping
-🎮 Gaming | 📖 Manga | 🎥 Anime
+##🏋️ Gym | 🏃 Running | ⛰️ Hiking | 🏕️ Camping
+## 🎮 Gaming | 📖 Manga | 🎥 Anime
 <!--
 **selamat590/selamat590** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
