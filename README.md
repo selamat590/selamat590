@@ -3,10 +3,7 @@
 ![bocchi](https://github.com/selamat590/selamat590/blob/main/bocchi.gif)
 
 ## Skill
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Sketchup-Dark.svg" />
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Laravel-Dark.svg" />
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg" />
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Wordpress.svg" />
+[![My Skills](https://skillicons.dev/icons?i=sketchup,laravel,vscode,wordpress&theme=light)](https://skillicons.dev)
 
 ## 
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
