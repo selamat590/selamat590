@@ -13,7 +13,7 @@
 <img src="https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white" />
 <img src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white" />
 
-![kita](https://github.com/selamat590/selamat590/blob/main/kita-bocchi.gif)
+<img src="https://github.com/selamat590/selamat590/blob/main/kita-bocchi.gif" width="300" />
 
 ## Operating system
 <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
