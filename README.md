@@ -1,3 +1,4 @@
+![banner](https://github.com/selamat590/selamat590/blob/main/banner.png)
 ## Yo gw kaysan 👋
 🎓 siswa kelas 12 jurusan rekayasa perangkat lunak, Programmer pemula bang ajarin dong puh sepuh
 <img src="https://github.com/selamat590/selamat590/blob/main/bocchi.gif" width="300" />
