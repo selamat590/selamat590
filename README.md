@@ -1,4 +1,10 @@
-## Hi there 👋
+## Yo gw kaysan 👋
+🎓 siswa kelas 12 jurusan rekayasa perangkat lunak, Programmer pemula bang ajarin dong puh sepuh
+![bocchi](https://github.com/selamat590/selamat590/blob/main/bocchi.gif)
+
+💻 PHP • JavaScript • MySQL
+🏋️ Gym | 🏃 Running | ⛰️ Hiking | 🏕️ Camping
+🎮 Gaming | 📖 Manga | 🎥 Anime
 
 <!--
 **selamat590/selamat590** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
