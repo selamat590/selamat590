@@ -1,6 +1,6 @@
 ## Yo gw kaysan 👋
 🎓 siswa kelas 12 jurusan rekayasa perangkat lunak, Programmer pemula bang ajarin dong puh sepuh
-![bocchi](https://github.com/selamat590/selamat590/blob/main/bocchi.gif)
+<img src="https://github.com/selamat590/selamat590/blob/main/bocchi.gif" width="300" />
 
 ## Skill
 [![My Skills](https://skillicons.dev/icons?i=sketchup,laravel,vscode,wordpress&theme=light)](https://skillicons.dev)
